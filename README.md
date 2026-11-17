@@ -15,4 +15,5 @@ Replace `https://www.example.com` in `sitemap.xml` and `robots.txt` with the con
 - `images/optimized/clinicians.webp` is the supplied team portrait.
 - `images/optimized/consultation.webp` is the supplied patient consultation photograph.
 - The original supplied PNGs remain in `images/`.
-- `dentistree_logo.svg` is the supplied logo and is used as the favicon and wordmark source.
+- `dentistree_logo.png` is used for page logos; `dentistree_logo.svg` remains the favicon.
+
