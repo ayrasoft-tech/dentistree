@@ -15,7 +15,7 @@
 
   <!-- Wordmark -->
   <g font-family="DejaVu Sans, Arial, sans-serif" font-weight="800" font-size="174" letter-spacing="-9">
-    <text x="92" y="690" fill="#8bc63f">dentis</text>
+    <text x="92" y="690" fill="#398c45">dentis</text>
     <text x="650" y="690" fill="#78a9c2">TREE</text>
   </g>
 
@@ -91,3 +91,4 @@
   <path fill="#75c9b3" d="M1094 274 C1122 272 1145 257 1161 235 C1178 211 1204 219 1207 242
     C1210 266 1189 291 1161 296 C1137 301 1112 290 1094 274 Z" transform="translate(-18,0)"/>
 </svg>
+
